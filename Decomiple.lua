@@ -792,4 +792,4 @@ local function disassemble(a1, showOps)
 	return output
 end
 
-return disassemble
+return {disassemble}
